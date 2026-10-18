@@ -1,7 +1,7 @@
 # Ścieżka
 ## Imię i nazwisko
 Ruslan Smolar
-> Student Informatyki na PJATKu z kilkuletnim komercyjnym doświadczeniem z tworzenia gier, stron internetowych w CMS WP, oraz organizacji Eventów
+> Student Informatyki na PJATKu, *technik programista* z kilkuletnim komercyjnym doświadczeniem z tworzenia gier, stron internetowych w CMS WP, oraz organizacji Eventów
 ## Doświadczenie
 Game Developer - Game Changer  [website](https://www.game-changer.pl/) (2023-2026) *Full-time*
 - Współtworzenie kilkunastu produkcji na Roblox/Fortnite, w tym eventu muzycznego z ponad **90K CCU**
