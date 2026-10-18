@@ -3,7 +3,7 @@
 Ruslan Smolar
 > Student Informatyki na PJATKu z kilkuletnim komercyjnym doświadczeniem z tworzenia gier, stron internetowych w CMS WP, oraz organizacji Eventów
 ## Doświadczenie
-Game Developer - Game Changer [ ](https://www.game-changer.pl/) (2023-2026) *Full-time*
+Game Developer - Game Changer  [website](https://www.game-changer.pl/) (2023-2026) *Full-time*
 - Współtworzenie kilkunastu produkcji na Roblox/Fortnite, w tym eventu muzycznego z ponad **90K CCU**
 - Budowa systemow gameplayowych i usługowych
 - Integracje z datastore, zewnętrznymi APi (loterie, kody, partnerzy www), telemetria
