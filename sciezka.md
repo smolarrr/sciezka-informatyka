@@ -20,20 +20,20 @@ Wordpress Developer - Freelance (2020 - now)
  - Mieć ustrukturyzowany czas, w którym muszę być produktywny poza *stricte* granicami zainteresowań
 
 ## Technologie/Umiejętności
-    * Lua
-    * Javascript / Typescript
-    * React
-    * Reflex (state container)
-    * CMS Wordpress
-    * Google Analytics
-    * REST/Webhooks
-    * Git
-    * Github Actions
-    * basic C++ 
-    * Python (skrypty)
-    * Jira
-    * Figma
-    * Storybook 
+* Lua
+* Javascript / Typescript
+* React
+* Reflex (state container)
+* CMS Wordpress
+* Google Analytics
+* REST/Webhooks
+* Git
+* Github Actions
+* basic C++ 
+* Python (skrypty)
+* Jira
+* Figma
+* Storybook 
 
 ## Hobby
 Kucharz amator, pasjonat rysi euroazjatyckich, piję kawę zamiast wody
